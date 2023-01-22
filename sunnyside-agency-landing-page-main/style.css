@@ -1,0 +1,210 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 12px;
+  margin-top: 30px;
+}
+.box1 img {
+  width: 300px;
+  height: 50px;
+  padding-top: 150px;
+}
+.arrow img {
+  width: 20px;
+  height: 20px;
+  padding-top: 70px;
+  padding-right: 40px;
+}
+.blue h2 {
+  color: white;
+}
+.heading h1 {
+  padding-left: 150px;
+  padding-top: 40px;
+  color: white;
+}
+.box1 {
+  display: flex;
+  justify-self: center;
+  background-color: skyblue;
+  width: 500px;
+  height: 200px;
+}
+
+.box1 h2 {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  color: white;
+}
+.box1 p {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.button {
+  border-radius: 20px;
+}
+.h h1 {
+  color: hsl(0, 0%, 100%);
+}
+.grid {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  grid-template-rows: 200px 200px 200px;
+}
+.transform {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  background-color: hsl(0, 0%, 100%);
+}
+.transform p {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: hsl(167, 40%, 24%);
+}
+.transform h2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.transform h4 {
+  padding-left: 20px;
+}
+.egg img {
+  width: 250px;
+  height: 200px;
+}
+.standout img {
+  width: 250px;
+  height: 200px;
+  grid-template-columns: 1;
+  grid-template-rows: 1;
+}
+.box3 {
+  grid-template-columns: 2;
+  grid-template-rows: 2;
+  background-color: hsl(0, 0%, 100%);
+}
+.box3 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: hsl(167, 40%, 24%);
+}
+.box3 h2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.box3 h4 {
+  padding-left: 20px;
+}
+.box3 h4 {
+  box-shadow: hsl(7, 99%, 70%);
+}
+.box4 {
+  background-color: hsl(168, 73%, 51%);
+}
+.box4 img {
+  margin-left: 50px;
+  width: 100px;
+  height: 80px;
+}
+.box4 h2 {
+  color: hsl(167, 40%, 24%);
+  padding-left: 60px;
+}
+.box p {
+  padding-left: 30px;
+}
+.box4 img {
+  grid-template-columns: 1;
+  grid-template-rows: 3;
+}
+.box4 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: hsl(167, 40%, 24%);
+}
+.box5 img {
+  width: 160px;
+  height: 90px;
+  grid-template-columns: 2;
+  grid-template-rows: 3;
+  margin-left: 40px;
+}
+.box5 {
+  background-color: skyblue;
+}
+.box5 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: hsl(198, 62%, 26%);
+}
+.box5 h2 {
+  padding-left: 60px;
+  color: hsl(198, 62%, 26%);
+}
+.new {
+  width: 300px;
+  height: 50px;
+  background-color: white;
+}
+.new h2 {
+  color: hsl(208, 19%, 62%);
+  padding-left: 150px;
+  padding-top: 40px;
+}
+.grid2 {
+  display: grid;
+  grid-template-columns: 168px 168px 168px;
+  margin-top: 40px;
+}
+.grid2 h2 {
+  color: hsl(210, 26%, 87%);
+}
+.grid2 p {
+  color: hsl(212, 27%, 19%);
+}
+.grid2 img {
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+.grid2 h4 {
+  color: hsl(210, 26%, 87%);
+}
+.grid3 {
+  display: grid;
+  grid-template-columns: 125px 125px 125px 125px;
+  grid-template-rows: 150px;
+}
+.grid3 img {
+  width: 130px;
+  height: 150px;
+}
+.box7 {
+  width: 505px;
+  height: 100px;
+  background-color: hsl(169, 27%, 63%);
+}
+.box7 h2 {
+  color: hsl(168, 34%, 41%);
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-left: 200px;
+}
+.B {
+  color: hsl(168, 34%, 41%);
+  display: flex;
+  justify-content: space-around;
+}
+.n {
+  margin-top: 30px;
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+}
